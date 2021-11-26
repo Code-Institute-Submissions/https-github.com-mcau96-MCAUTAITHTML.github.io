@@ -6,10 +6,22 @@
     border: none;
 }
 
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url(https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 body {
     font-family: Shippori Antique, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #fff;
 }
 
 /* Headings and logo */
@@ -18,7 +30,7 @@ h1 {
     font-family: Shippori Antique, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525
+    color: #fff
 }
 
 #logo {
@@ -50,16 +62,16 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fff;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fff;
 }
 
 .text-box {
     width: 90%;
-    color: #3a3a3a;
+    color: #fff;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -74,7 +86,7 @@ h1 {
 .train-btn {
     display: inline-block;
     text-decoration: none;
-    color: #3a3a3a;
+    color: #fff;
     border: 1px solid #3a3a3a;
     padding: 10px 30px;
     font-size: 10px;
@@ -84,5 +96,5 @@ h1 {
 }
 
 .train-btn:hover {
-    border: 1px solid #ff0000;
+    border: 1px solid #fff;
 }
