@@ -56,3 +56,33 @@ h1 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+.text-box {
+    width: 90%;
+    color: #3a3a3a;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.text-box p {
+    margin: 20px 0 40px;
+}
+
+.train-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #3a3a3a;
+    border: 1px solid #3a3a3a;
+    padding: 10px 30px;
+    font-size: 10px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.train-btn:hover {
+    border: 1px solid #ff0000;
+}
