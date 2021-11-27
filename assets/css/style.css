@@ -102,10 +102,10 @@ h1 {
     border: 1px solid #fff;
 }
 
-/* footer */
+/* footer and social icons */
 
 footer {
-    height: 100px;
+    height: 50px;
 }
 
 .social-networks {
@@ -113,7 +113,7 @@ footer {
 }
 
 .social-networks > li {
-    display: inline; 
+    display: inline;
 }
 
 .social-networks i {
@@ -121,4 +121,14 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a
+}
+
+/* About Us */
+
+.bx {
+    background-image: url(https://images.pexels.com/photos/669577/pexels-photo-669577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
