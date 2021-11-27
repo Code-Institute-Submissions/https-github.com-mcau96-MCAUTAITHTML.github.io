@@ -126,9 +126,49 @@ footer {
 /* About Us */
 
 .bx {
-    background-image: url(https://images.pexels.com/photos/669577/pexels-photo-669577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://images.pexels.com/photos/4753898/pexels-photo-4753898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.text-box1 {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    }
+
+footer {
+    height: 50px;
+}
+
+.social-networks1 {
+    text-align: center;
+}
+
+.social-networks1 > li {
+    display: inline;
+}
+
+.social-networks1 i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fff;
+}
+
+/* Motivation Station */
+
+.sk {
+    background-image: url(https://images.pexels.com/photos/4761352/pexels-photo-4761352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
