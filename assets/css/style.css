@@ -206,3 +206,9 @@ footer {
     background-size: cover;
 }
 
+.vid {
+    position: relative; 
+    bottom: -125px;
+    float: right;
+}
+
