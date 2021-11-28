@@ -207,8 +207,7 @@ footer {
 }
 
 .vid {
-    position: relative; 
-    bottom: -125px;
-    float: right;
+    display: block;
+    margin: 0 auto;
 }
 
