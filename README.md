@@ -1,11 +1,3 @@
-<h1 align="center">Code Institute Website</h1>
-
-[View the live project here.](https://codeinstitute.net)
-
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
-
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
-
 PT Guru-Training 101
 
 The PT Guru website is a gym advertisement page, where users will be able to find out the gym location, timetable of classes and a motivational interactive video to gain engagement. The aim of the website is to gain potential business for the gym and highlight the benefits of joining.
@@ -49,6 +41,9 @@ No CSS erros arose when passing through the official Jigsaw validator
 Accessibility
 
 I confirm i have used lighthouse to test the websites accessibility, as shown below
+
+![Capture](https://user-images.githubusercontent.com/91974540/143915112-1a6caea0-04b8-4793-a251-2b5160513372.PNG)
+![Capture 1](https://user-images.githubusercontent.com/91974540/143915137-2fcab3ce-0516-4710-9fcc-2127d24f13bc.PNG)
 
 Deployment
 
